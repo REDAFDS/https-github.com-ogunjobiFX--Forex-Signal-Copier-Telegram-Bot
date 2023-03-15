@@ -1,1 +1,1 @@
-# https-github.com-ogunjobiFX--Forex-Signal-Copier-Telegram-Bot
+https://github.com/ogunjobiFX/-Forex-Signal-Copier-Telegram-Bot
